@@ -55,3 +55,6 @@ Master list of programming resources.
 * [Exercisim - Code Practice and Mentorship](https://exercism.io/)
 * [Developer Video Courses](https://github.com/Developer-Y/cs-video-courses)
 
+# Contribute
+
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
