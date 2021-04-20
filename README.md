@@ -32,10 +32,16 @@ A curated list of programming resources for web developers, application develope
 
 ## Color
 - [Color Palette Generator](https://colors.muz.li/)
+- [Color Hunt](https://colorhunt.co/palettes/popular)
+- [Color Picker](https://www.reddit.com/r/web_design/comments/a4vnro/data_color_picker_looks_like_a_spectacular_tool/)
+- [Good Quality Free Illustration](https://www.reddit.com/r/web_design/comments/dafv67/where_you_find_free_good_quality_illustrations/)
+- [Refactoring UI - Color Palette](https://refactoringui.com/previews/building-your-color-palette/)
 
 # Fundamentals
 - [Coding Style Conventions and Standards](https://github.com/Kristories/awesome-guidelines)
 - [Programming Fundamental Books List](http://danluu.com/programming-books/)
+- [Unix System Overview](https://notes.shichao.io/apue/ch1/)
+- [Documentation System](https://documentation.divio.com/)
 
 ## Algorithms
 - [Awesome cheat sheet for must know data structures and algorithms](http://bigocheatsheet.com/)
@@ -74,6 +80,8 @@ A curated list of programming resources for web developers, application develope
 
 ## Python
 - [14 exercises to test your basic to intermediate Python skills](https://github.com/learnbyexample/Python_Basics/blob/master/Exercises.md)
+- [Flask](https://www.fullstackpython.com/flask.html)
+- [Exploring Flask](http://exploreflask.com/en/latest/)
 - [Twitch Plays Pokemon Tutorial](https://www.youtube.com/watch?v=sCagGV9Jl88&feature=youtu.be)
 
 ## SASS
@@ -89,6 +97,11 @@ A curated list of programming resources for web developers, application develope
 - [DNS – How a website is found on the internet](https://www.reddit.com/r/webdev/comments/bbisvv/dns_how_a_website_is_found_on_the_internet/)
 - [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [Ooops I guess we're- full-stack developers now](https://full-stack.netlify.com/)
+- [Lighthouse Score Improvement Case Study] (https://dev.to/saurabhdaware/i-rebuilt-my-portfolio-now-it-has-100-lighthouse-score-here-s-how-i-did-477a)
+- [Visual Heirarchy](https://www.reddit.com/r/web_design/comments/bzjjfr/visual_hierarchy_perfectly_illustrated/)
+- [Web Dev Resources](https://webdevresources.info/)
+- [Free Design Resources](https://www.reddit.com/r/web_design/comments/9nlck0/noshit_list_of_free_design_resources_for_your/)
+- [Build Website for Nonprofits](https://www.catchafire.org/)
 
 ## Checklist To Go Live
 - [Checkbot.io](https://www.checkbot.io/)
@@ -97,6 +110,7 @@ A curated list of programming resources for web developers, application develope
 
 ## Figma
 - [10 Tips on using components in Figma](https://medium.com/design-with-figma/10-tips-on-using-components-in-figma-c7db9c5e7fe1)
+- [Figma](https://www.figma.com/)
 
 # Free Courses
 - [200+ Free Courses Online](https://qz.com/1120344/200-universities-just-launched-600-free-online-courses-heres-the-full-list/)
